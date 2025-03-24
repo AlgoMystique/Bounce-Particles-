@@ -13,7 +13,7 @@
 
 Check out the live demo [here](https://algomystique.github.io/Bounce-Particles-)
 
-![Bounce Particles Effect](assets/bounce-particles-demo.gif) 
+![Bounce Particles Effect](html.gif) 
 
 ## Technologies Used
 
